@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdminControler">
+    <Position X="4.25" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>AdminControler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Administrator">
+    <Position X="0.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIgAAAgAAAAAAA=</HashCode>
+      <FileName>Administrator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminWindow">
+    <Position X="7.75" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAIBAAAA=</HashCode>
+      <FileName>AdminWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CipherText" Collapsed="true">
+    <Position X="20.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>CipherText.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="10.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MKAAAQAIJQgABABBAAQAEAAAEAAAAAgFEBAgAAAgAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DateTime">
+    <Position X="10.75" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAABAAABAAAAQAAAAAAAAQAAAAgAAAARAA=</HashCode>
+      <FileName>DateTime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginControler">
+    <Position X="4.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAQAAAAIAg=</HashCode>
+      <FileName>LoginControler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginWindow">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAAAA=</HashCode>
+      <FileName>LoginWIndow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MD5">
+    <Position X="20.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAgCAAgKiAAgAAAAAAUAgYAAAKAgBAGGAAIAA=</HashCode>
+      <FileName>MD5.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Message">
+    <Position X="16.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAEgAkAAAEAhAAAAABIAAAAAAAAQKQBgIAAEEAA=</HashCode>
+      <FileName>Message.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAABAAAAABAIAAABQAAIBEAABACIAAAAgAAAAAQA=</HashCode>
+      <FileName>Time.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="0.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAgAAAIAQAAAAAACRAABAAAAAIgAAAgAAAAEAA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserControler">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserControler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserWindow">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAAAA=</HashCode>
+      <FileName>UserWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AddUserResult">
+    <Position X="4.25" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdminControler.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LoginResult">
+    <Position X="7.5" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAgAAQAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoginControler.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MessageType">
+    <Position X="16.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAEAAEAAAAA=</HashCode>
+      <FileName>Message.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
